@@ -1,0 +1,1 @@
+export const str = 'link-project1 hello word哈哈哈哈'
